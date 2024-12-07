@@ -18,17 +18,6 @@ echo $amarillo. "
            ————————————————————————————————————————\n";
 echo "==================================================================";
 echo "\n
-@echo off
-title BRUTUS FORCE [ZIP] WALLEX LIDER DA MARFINET DO GRUPO NETSUKI
-cd /d %~dp0
-mode 79,17
-color 0a
-setlocal enabledelayedexpansion
-
-:: ARQUIVO
-:in
-cls
-mode 79,17
 echo.
 \033[01;31m赏屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯屯";
 echo "\n
